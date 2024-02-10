@@ -1,0 +1,4 @@
+repository "Lab 4@NNICODEM@cloud"
+  path "/"
+    br "/main"
+    co "/main"
